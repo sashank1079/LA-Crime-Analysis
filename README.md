@@ -1,9 +1,12 @@
 # LA-Crime-Analysis
 Create a data-driven overview of Los Angeles crimes, emphasizing dashboard building, data profiling, staging pipelines, and safety insights for residents and visitors.
 
+# Talend Workflow
+
+![talend workflow](https://github.com/sashank1079/LA-Crime-Analysis/assets/122720872/c24a26eb-a8c7-4bac-a1c7-81c47bbce7f2)
+
 # Data Observations
 
- 
 Alteryx Workflow
 
 ![image](https://github.com/sashank1079/LA-Crime-Analysis/assets/122720872/0b4e264f-7c21-42f5-a5d4-28c80cf0844a)
